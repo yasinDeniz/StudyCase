@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "description": "MAĞAZA B",
+      "coordinates": { "x": 10, "y": 20 }
+    },
+    {
+      "description": "Adres: Beyazevler Mah. 80058. Sok. No: 456",
+      "coordinates": { "x": 10, "y": 40 }
+    },
+    {
+      "description": "Tarih: 20.06.2023",
+      "coordinates": { "x": 10, "y": 60 }
+    },
+    {
+      "description": "Saat: 10:45",
+      "coordinates": { "x": 10, "y": 80 }
+    },
+    {
+      "description": "Ürünler:",
+      "coordinates": { "x": 10, "y": 100 }
+    },
+    {
+      "description": "1x Çikolata - 2,00 TL",
+      "coordinates": { "x": 10, "y": 120 }
+    },
+    {
+      "description": "3x Meyve Suyu - 7,50 TL",
+      "coordinates": { "x": 10, "y": 140 }
+    },
+    {
+      "description": "Toplam: 9,50 TL",
+      "coordinates": { "x": 10, "y": 160 }
+    },
+    {
+      "description": "Bizi tercih ettiğiniz için teşekkürler!",
+      "coordinates": { "x": 10, "y": 180 }
+    }
+  ]
+}

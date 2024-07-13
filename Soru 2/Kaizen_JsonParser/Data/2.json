@@ -1,0 +1,41 @@
+{
+    "results": [
+      {
+        "description": "MARKET A",
+        "coordinates": { "x": 10, "y": 20 }
+      },
+      {
+        "description": "Adres: XYZ Mah. ABC Cad. No: 123",
+        "coordinates": { "x": 10, "y": 40 }
+      },
+      {
+        "description": "Tarih: 13.07.2023",
+        "coordinates": { "x": 10, "y": 60 }
+      },
+      {
+        "description": "Saat: 14:30",
+        "coordinates": { "x": 10, "y": 80 }
+      },
+      {
+        "description": "Ürünler:",
+        "coordinates": { "x": 10, "y": 100 }
+      },
+      {
+        "description": "1x Ekmek - 1,50 TL",
+        "coordinates": { "x": 10, "y": 120 }
+      },
+      {
+        "description": "2x Su - 3,00 TL",
+        "coordinates": { "x": 10, "y": 140 }
+      },
+      {
+        "description": "Toplam: 4,50 TL",
+        "coordinates": { "x": 10, "y": 160 }
+      },
+      {
+        "description": "Teşekkürler!",
+        "coordinates": { "x": 10, "y": 180 }
+      }
+    ]
+  }
+  

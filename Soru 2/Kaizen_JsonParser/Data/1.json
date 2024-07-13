@@ -1,0 +1,128 @@
+{
+  "results": [
+    {
+      "description": "TEŞEKKÜRLER",
+      "coordinates": { "x": 10, "y": 20}
+    },
+    {
+      "description": "GUNEYDOĞU TEKS. GIDA INS SAN. LTD.STI.",
+      "coordinates": { "x": 10, "y": 40 }
+    },
+    {
+      "description": "ORNEKTEPE MAH.ETIBANK CAD.SARAY APT.",
+      "coordinates": { "x": 10, "y": 60}
+    },
+    {
+      "description": "N:43-1 BEYOĞLU/ISTANBUL",
+      "coordinates": { "x": 10, "y": 80}
+    },
+    {
+      "description": "GÜNEŞLİ V.D. 4350078928 V. NO.",
+      "coordinates": { "x": 10, "y": 100}
+    },
+    {
+      "description": "TARIH : 26.08.2020",
+      "coordinates": { "x": 10, "y": 120  }
+    },
+    {
+      "description": "SAAT : 15:27",
+      "coordinates": { "x": 10, "y": 140  }
+    },
+    {
+      "description": "FİŞ NO : 0082",
+      "coordinates": { "x": 10, "y": 160  }
+    },
+    {
+      "description": "54491250",
+      "coordinates": { "x": 10, "y": 180 }
+    },
+    {
+      "description": "2 ADx 2,75",
+      "coordinates": { "x": 10, "y": 200  }
+    },
+    {
+      "description": "CC.COCA COLA CAM 200 08 *5,50",
+      "coordinates": { "x": 10, "y": 220}
+    },
+    {
+      "description": "2701084",
+      "coordinates": { "x": 10, "y": 240}
+    },
+    {
+      "description": "1,566 KGx 1,99",
+      "coordinates": { "x": 10, "y": 260  }
+    },
+    {
+      "description": "MANAV DOMATES PETEME *3,32",
+      "coordinates": { "x": 10, "y": 280}
+    },
+    {
+      "description": "2701076",
+      "coordinates": { "x": 10, "y": 300}
+    },
+    {
+      "description": "0,358 KGx 4,99",
+      "coordinates": { "x": 10, "y": 320  }
+    },
+    {
+      "description": "MANAV BIBER CARLISTO 08 *1,79",
+      "coordinates": { "x": 10, "y": 340 }
+    },
+    {
+      "description": "4",
+      "coordinates": { "x": 10, "y": 360}
+    },
+    {
+      "description": "EKMEK CIFTLI 01 *1,25",
+      "coordinates": { "x": 10, "y": 380}
+    },
+    {
+      "description": "TOPKDV *0,80",
+      "coordinates": { "x": 10, "y": 400  }
+    },
+    {
+      "description": "TOPLAM *11,86",
+      "coordinates": { "x": 10, "y": 420  }
+    },
+    {
+      "description": "NAKİT *20,00",
+      "coordinates": { "x": 10, "y": 440  }
+    },
+    {
+      "description": "KDV KDV TUTARI KDV'LI TOPLAM",
+      "coordinates": { "x": 10, "y": 460}
+    },
+    {
+      "description": "01 *0,01 *1,25",
+      "coordinates": { "x": 10, "y": 480  }
+    },
+    {
+      "description": "08 *0,79 *10,61",
+      "coordinates": { "x": 10, "y": 500  }
+    },
+    {
+      "description": "KASİYER : SUPERVISOR",
+      "coordinates": { "x": 10, "y": 520 }
+    },
+    {
+      "description": "00 0001/020/000084/1//82/",
+      "coordinates": { "x": 10, "y": 540 }
+    },
+    {
+      "description": "PARA USTÜ *8,14",
+      "coordinates": { "x": 10, "y": 560  }
+    },
+    {
+      "description": "KASİYER: 1",
+      "coordinates": { "x": 10, "y": 580}
+    },
+    {
+      "description": "2 NO:1330 EKÜ NO:0001",
+      "coordinates": { "x": 10, "y": 600, "width": 200}
+    },
+    {
+      "description": "MF YAB 15017876",
+      "coordinates": { "x": 10, "y": 620  }
+    }
+  ]
+}
